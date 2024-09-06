@@ -226,14 +226,13 @@ section {
 }
 .pic {
   width: 100%;
-  margin-bottom: 24px;
 }
 .pic img {
   width: 100%;
 }
 .info {
   text-align: center;
-  padding: 0 14px;
+  padding: 24px 14px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -467,7 +466,6 @@ section {
   .pic {
     width: 65%;
     height: 400px;
-    margin-bottom: 0px;
   }
 
   .info {
