@@ -48,6 +48,7 @@ export default function NavBar({ toggleDrawer, lg }) {
           <Link to="home" smooth={true} offset={-90} duration={500}>
             {" "}
             <motion.svg
+              className="main-logo"
               width="192"
               height="32"
               xmlns="http://www.w3.org/2000/svg"
