@@ -79,4 +79,5 @@ function splitString(input) {
 
   return characters;
 }
+
 export { creations, hero, ad, navLinks, splitString };
